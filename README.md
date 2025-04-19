@@ -11,7 +11,7 @@ To run the application:
 1. **Set up a local server** using **XAMPP** (or any PHP-MySQL environment).
 2. Start **Apache** and **MySQL** in XAMPP.
 3. Place the project folder in the `htdocs` directory.
-4. Import the database file (`soumitattva.sql`) via **phpMyAdmin**.
+4. Import the database file (`manoraksha.sql`) via **phpMyAdmin**.
 5. Launch the web app via `http://localhost/soumitattva/index.html`.
 
 ---
