@@ -1,6 +1,6 @@
-🧠 Soumitattva – A Mental Health & Wellness Companion
+🧠 **Soumitattva – A Mental Health & Wellness Companion**
 
-Soumitattva is a smart mental health web application that supports individuals through emotional self-care while offering organizations and professionals a powerful SaaS platform to monitor mental well-being and intervene early when needed. The platform features sentiment-aware journaling, suicide risk detection, live chat/video support, and domain-specific wellness modules.
+**Soumitattva** is a smart mental health web application that supports individuals through emotional self-care while offering organizations and professionals a **powerful SaaS platform** to monitor mental well-being and intervene early when needed. The platform features sentiment-aware journaling, suicide risk detection, live chat/video support, and domain-specific wellness modules.
 
 ---
 
@@ -16,22 +16,22 @@ To run the application:
 
 ---
 
-👥 User Flow
+👥 **User Flow**
 
-🔐 Admin Panel
+🔐 **Admin Panel**
 - Admins can log in to a secure dashboard.
 - They can **add and manage users**, assigning login credentials.
 - Admins can view test reports, mental health indicators, and flag risk cases.
 
-👤 User Dashboard
+👤** User Dashboard**
 - Users log in using credentials provided by the admin.
 - They can access **self-assessment tests**, **journaling features**, and **mood tracking tools**.
 - The platform includes a **chatbot-enabled video call service** for live support with a professional.
 
 ---
 
-💡 Core Features
-
+💡** Core Features
+**
 - ✅ **Suicide Risk Detection** – Auto-detects concerning behavior via journal/test inputs.
 - 🧘 **Anonymous Journaling & Mood Tracking**
 - 🧠 **Self-Assessment Tests** – Custom questions based on user type.
@@ -44,7 +44,7 @@ To run the application:
 
 ---
 
- 📈 Designed For
+ 📈 **Designed For**
 
 - Military & paramilitary organizations
 - Universities and colleges
